@@ -1,3 +1,6 @@
+# Update DO8PGG:
+Linux-Scripte erstellt. Bitte beide Scripte als Beta betrachten. Hier unter Archlinux funktionieren sie. 
+
 # DA6IT.de Wavelog Offline Logger
 
 Offlinefähiger Desktop-Logger für Funkamateure. QSOs werden zuerst lokal gespeichert und erst auf Wunsch mit Wavelog synchronisiert.
